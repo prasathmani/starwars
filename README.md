@@ -1,5 +1,8 @@
 # UI Coding Assignment
 
+![image](https://user-images.githubusercontent.com/11345598/163117952-d2abc354-a059-4393-9f6a-39d8aafa7515.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
